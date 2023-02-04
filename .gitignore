@@ -1,0 +1,6 @@
+#wiil ignore the file record of /mylogs
+/mylogs
+#wiil ignore all all file which extension is .cpp
+.cpp
+#wiil ignore all all file which extension is .log
+*.log
